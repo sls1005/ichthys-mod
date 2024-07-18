@@ -1,4 +1,4 @@
-This is a mod for the Unciv game. It adds a religion named "Christianity" (in case that the ruleset doesn't have it but your civilizations need it) with a distinct symbol (the Jesus fish).
+This is a mod for the Unciv game. It adds a religion named `Christianity` (in case that the ruleset doesn't have it but your civilizations need it) with a distinct symbol (the Jesus fish).
 
 ### Note
 
